@@ -1,6 +1,6 @@
-esta es la historia de reinaldo romero 
+﻿esta es la historia de reinaldo romero 
 
 tiene 29 años
 
-quiere ser programador web, le gustaria y necesita conseguir un trabajo
-como programador web
+quiere ser desarrollador web, le gustaria y necesita conseguir un trabajo
+como desarrolador web
