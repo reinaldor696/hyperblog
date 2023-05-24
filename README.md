@@ -9,5 +9,7 @@ En este curso vemos de todo:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor
+* platzi team
+
 
 y como un recordatorio: **Este readme.md es una prueba**.
