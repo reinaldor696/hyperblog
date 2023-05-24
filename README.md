@@ -11,6 +11,7 @@ En este curso vemos de todo:
 * Trucos del profesor
 * platzi team
 * ejemplos linux, apple y windows
+* para todas las edades
 
 
 y como un recordatorio: **Este readme.md es una prueba**.
